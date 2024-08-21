@@ -1,0 +1,11 @@
+.add{
+    text-align: center;
+    padding: 10px;
+}
+.add input{
+    width: 450px;
+    height: 40px;
+}
+.add button{
+    background-color: rgba(25, 135, 84, 1);
+}

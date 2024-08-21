@@ -1,0 +1,22 @@
+.pd_policies h2{
+    color: #59a4f4;
+   }
+
+
+    h4 {
+        color: #59a4f4;
+    }
+
+    input.add-to-cart.addtocart.button.pdpage.nomargin.col-xs-12.col-md-7.nopadding{
+        border: 1px solid #59a4f4 !important;
+        color: #59a4f4;
+    }
+   
+
+    input.button.col-xs-7.nopadding.buynow {
+        background-color: #59a4f4;
+    }
+
+    .product-price col-sm-12 col-md-6 noleftpadding{
+        width: 100%;
+    }
